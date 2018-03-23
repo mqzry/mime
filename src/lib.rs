@@ -653,6 +653,7 @@ mimes! {
     IMAGE_GIF, "image/gif", 5;
     IMAGE_PNG, "image/png", 5;
     IMAGE_BMP, "image/bmp", 5;
+    IMAGE_SVG, "image/svg+xml", 5;
 
     APPLICATION_JSON, "application/json", 11;
     APPLICATION_WWW_FORM_URLENCODED, "application/x-www-form-urlencoded", 11;
